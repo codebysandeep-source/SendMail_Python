@@ -10,7 +10,7 @@ email_sender = "backenddeveloper.me@gmail.com"
 email_receiver = "sandeepkc510@gmail.com"
 
 
-email_password = "jixmzkgijnhjsygm"   #this is a email_sender generated password.
+email_password = "jixmzkgijnhjsygm"   #this is an email_sender generated password.
 #to create email_password you have to generate/create '"App Passwords"' in Google(gmail)
 # Step1 -> click 'Manage your Google Account' then click 'security'
 # Step2 -> inside 'Signing in to Google' there you get 'App passwords' click that.
